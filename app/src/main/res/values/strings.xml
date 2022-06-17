@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tryGit</string>
+    <string name="title">Доброе утро</string>
 </resources>
